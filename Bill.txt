@@ -1,0 +1,5 @@
+307		|			CompassBox			|		5		|		100.00		|		500.00
+305		|			Crayons			|		3		|		20.00		|		60.00
+307		|			CompassBox			|		2		|		100.00		|		200.00
+305		|			Crayons			|		1		|		20.00		|		20.00
+Grand Total:780.00

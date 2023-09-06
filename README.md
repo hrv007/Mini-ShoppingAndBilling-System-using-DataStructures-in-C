@@ -4,3 +4,4 @@ The cart in the code used by the customers involve the use of linked list data s
 The stock management utilizes binary tree data structure. The stock is divided into sub classes i.e. electronics, foot items and stationary with each one having its own binary tree. The head pointer of all the 3 binary trees are stored in an array. This is done so that the code can be made scalable to more sub classes of items as well.
 The bill is available in the same folder after the user gives the permission to print the bill.
 Electronics.war, FoodItems.war and Stationary.war contains the data of the products available in the store. These cannot be altered outside the shopping system due to the .war extension.
+The username and password for manager to login is "admin123" and "admin123" respectively. One can change it as per their convenience.
